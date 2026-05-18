@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace Lekcja33.Klasy;
 
-namespace Lekcja33.Klasy
+public abstract class Obiekt
 {
-    internal class obiekt
+    public virtual void ZastosujZasady()
     {
+
     }
 }
